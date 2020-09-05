@@ -1,2 +1,2 @@
-# Exploaratory-Data-Analysis
+# Exploratory-Data-Analysis
 Demonstration of Exploratory Data Analysis Techniques .
